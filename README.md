@@ -15,17 +15,17 @@
 
 ### Minhas principais habilidades:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;  
   
 ### Estudando no momento:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&logoColor=purple&labelColor=0D1117)&nbsp; 
+![CSS](https://img.shields.io/badge/CSS-0D1117?&style=for-the-badge&logo=css3&logoColor=blue&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orange)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
