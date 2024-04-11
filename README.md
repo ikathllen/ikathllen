@@ -14,7 +14,7 @@
         <h2>Habilidades</h2>
         <h3>Hard Skills</h3>
         <ul>
-            <li>Python</li>
+            <li>Linguagem-Python </li>
             <li>SQL</li>
             <li>Estatísticas</li>
             <li>Excel</li>
